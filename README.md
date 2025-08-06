@@ -1,6 +1,6 @@
-# 👋 Hallo, ich bin Painterstraik!
+# 👋 Hallo, ich bin Paul!
 
-Willkommen auf meinem GitHub-Profil!  
+Willkommen auf meinem Profil!  
 Ich bin ein kreativer Entwickler mit Leidenschaft für **Data Science**, **Künstliche Intelligenz** und **Discord Bot-Projekte**.
 
 ---
