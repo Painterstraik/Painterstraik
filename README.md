@@ -28,7 +28,6 @@ Ich bin ein kreativer Entwickler mit Leidenschaft für **Data Science**, **Küns
 
 ## 📊 GitHub-Statistiken
 
-![Painterstraik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Painterstraik&show_icons=true&theme=default&count_private=true)
 ![Top-Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Painterstraik&layout=compact)
 
 ---
